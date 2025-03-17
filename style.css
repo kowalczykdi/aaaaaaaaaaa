@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #021964;
+    --azul-escuro: #021964;
 }
 
 body {
@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #640046;
+    color: #0011ff;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/maxresdefault.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -76,8 +76,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/tropicalia-e-tropicalismo.png') top right no-repeat,
+        url('img/Cartaz-destaca-50-anos-da-Tropicalia.webp') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -105,8 +105,8 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
+    background: url('img/') bottom right no-repeat;
+    background-size: 200px 200px;
 }
 
 #contato {
@@ -129,7 +129,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #0011ff;
     border: none;
     font-weight: bold;
 }
